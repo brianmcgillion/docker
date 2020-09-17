@@ -3,5 +3,5 @@
 docker \
   run --name lfs \
   --rm \
-  -v "$HOME/code/lfs/":/home/brian/code/lfs \  
+  -v "$HOME/code/lfs/":/home/brian/code/lfs \
   -it bmg/lfs
